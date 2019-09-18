@@ -1,1 +1,54 @@
+ion-content {
+    
+    --background: url("../../assets/images/iphone-bg.jpg") no-repeat center center / cover;
+}
 
+.name {
+    color: #f7f7f7;
+    letter-spacing: 4px;
+    line-height: 100px;
+    margin-left: 30px;
+    margin-top: 110px;
+
+}
+
+.matt {
+    font-size: 80px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.rich {
+    margin-top: 0;
+    font-size: 120px;
+    font-weight: 200;
+}
+p {
+    color: #f7f7f7;
+    margin-left: 30px;
+}
+
+.two-btns {
+    width: 70vw;
+    margin: 70px auto 0 auto;
+}
+.my-work {
+    display: block;
+    margin: 0 auto;
+    width: 70vw;
+}
+
+.about, .skills {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.bio {
+    width: 70vw;
+    font-weight: 200;
+    font-size: 16px;
+    
+}
+.job-title {
+    font-size: 20px;
+    font-weight: 400;
+}
